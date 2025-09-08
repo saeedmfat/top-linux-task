@@ -220,8 +220,8 @@
 
 99. Simulate an incident and write a postmortem report.
 
-100. Document and harden a Linux production server as if it were ready for deployment.
 ## part 2
+
 🔥 100 New Linux & Mid-level DevOps Challenges (No Duplicates)
 
 🟢 Beginner (Foundations, LPIC-1 basics not repeated before)
@@ -443,3 +443,5 @@
 198. Write a postmortem report for a simulated network outage.
 
 199. Document a step-by-step server hardening guide for production readiness.
+
+200. Document and harden a Linux production server as if it were ready for deployment.
