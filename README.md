@@ -1,7 +1,6 @@
 # top-linux-task
-البته، این هم لیست تسک‌ها بدون هیچ تغییری:
 
-🔥 100 Linux & DevOps Challenges (Mid-level Focus)
+### 🔥 100 Linux & DevOps Challenges (Mid-level Focus)
 
 🟢 Beginner (LPIC-1 fundamentals)
 
